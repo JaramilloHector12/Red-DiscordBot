@@ -1,1 +1,1 @@
-worker: python3 -m redbot MTI4OTI1MDA3NjA3MzY1NjM4Mg.G8GNRw.pR5oxeeAcx17bSWIn8cc7pF5k_2PQb8DbOZI7M
+worker: python3 -m redbot {{ env.BOT_TOKEN }}
